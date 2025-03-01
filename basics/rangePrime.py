@@ -11,3 +11,10 @@ for i in range(x, y + 1):
         res.append(i)  # prime found
 
 print(res if res else "No")
+
+from sympy import primerange 
+
+x, y = 2, 7  # range [x, y]
+
+primes = list(primerange(x, y + 1))
+print(primes if primes else "No")
