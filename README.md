@@ -7,4 +7,4 @@ Following the leetcode course
 Progress Report:
 Day 1 [25 June 2025]: Completed the Introduction section which covered Big O notaion and recursion overview.
 
-
+Day 2 [26 June 2025]: Completed the Two Sum problem with sorted and unsorted lists and Palindrome problem with 3 approaches.
